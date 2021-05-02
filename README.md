@@ -110,8 +110,8 @@ If you want to contribute configurations to this repository please open a Pull R
 
 ```yaml
 - type: discovergy
-  user: demo@discovergy.com 
-  password: demo # password 
+  user: 'demo@discovergy.com' 
+  password: 'demo'  # password 
   meter: 1ESY1161229886
 ```
 
